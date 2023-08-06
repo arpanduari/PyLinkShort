@@ -11,9 +11,9 @@ class LinkShortener:
     def __init__(self):
         # Window
         self.window = ttk.Window(themename='cyborg')
-        self.window.resizable(False, False)
+        self.window.resizable(False, False) # if you want to make your application window resizeable you can remove this line
         self.window.title('PyLinkShort')
-        self.window.geometry('700x500')
+        self.window.geometry('700x600')
         # Widgets
         self.input_label = ttk.Label(
             master=self.window, text='Link Shortener', font='calibari 15 normal')
