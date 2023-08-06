@@ -27,7 +27,7 @@ The application is built using Python and relies on the following libraries:
 2. Install the required dependencies using `pip`:
 
 ```bash
-pip install tkinter pyperclip pyshorteners ttkbootstrap
+pip install pyperclip pyshorteners ttkbootstrap
 ```
 
 ## Usage
