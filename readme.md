@@ -42,7 +42,7 @@ cd PyLinkShort
 2. Run the Python script:
 
 ```bash
-python PyLinkShort.py
+python main.py
 ```
 
 3. The GUI application will open, and you can enter the URL you want to shorten.
