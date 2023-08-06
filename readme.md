@@ -22,7 +22,7 @@ The application is built using Python and relies on the following libraries:
 
 ## Installation
 
-1. First, make sure you have Python installed. If not, you can download it from [here](https://www.python.org/downloads/).
+1. First, make sure you have Python installed.
 
 2. Install the required dependencies using `pip`:
 
@@ -47,10 +47,13 @@ python PyLinkShort.py
 
 3. The GUI application will open, and you can enter the URL you want to shorten.
 
-4. Choose one of the available URL shortening services from the dropdown menu.
-
-5. Click the "Short" button to generate the shortened link.
+4. Click the "Short" button to generate the shortened link.
+  
+5. Choose one of the available URL shortening services.
 
 6. If you want to copy the specific shortened link to the clipboard, click the "Copy" button next to that link.
 
 ![example](example1.png)
+
+## Author
+- [arpanduari](https://github.com/arpanduari)
